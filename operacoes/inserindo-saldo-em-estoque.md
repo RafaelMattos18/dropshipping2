@@ -8,9 +8,9 @@ No Ábacos acesse:
 
 Na tela de Produto, informe:
 
-* Almoxarifado = DROP;
-* Entrada / Saída = ENTRADA;
-* Tipo de Movimentação: ENTRADA – LANCAMENTO MANUAL;
+* Almoxarifado = **DROP**;
+* Entrada / Saída = **ENTRADA**;
+* Tipo de Movimentação: **ENTRADA **– **LANCAMENTO MANUAL**;
 * Informar o Código do Produto;
 * Informar a Quantidade de itens da Nota Fiscal de Entrada;
 
