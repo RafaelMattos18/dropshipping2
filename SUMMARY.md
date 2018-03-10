@@ -3,5 +3,7 @@
 * [Introdução](README.md)
 * [Recebimento Fiscal](chapter1.md)
 * [Operacoes](operacoes.md)
-  * [Inserindo Saldo em Estoque](operacoes/inserindo-saldo-em-estoque.md)
+  * [Inserindo saldo em estoque](operacoes/inserindo-saldo-em-estoque.md)
+  * [Liberacao de pedidos](operacoes/liberacao-de-pedidos.md)
+  * [Produtos](operacoes/produtos.md)
 
