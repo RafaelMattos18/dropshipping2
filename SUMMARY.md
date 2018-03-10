@@ -6,4 +6,5 @@
   * [Inserindo saldo em estoque](operacoes/inserindo-saldo-em-estoque.md)
   * [Liberacao de pedidos](operacoes/liberacao-de-pedidos.md)
   * [Produtos](operacoes/produtos.md)
+  * [Time line](operacoes/time-line.md)
 

@@ -16,5 +16,5 @@ Quando o fornecedor atualizar em tempo real a quantidade de estoque de determina
 
 Dentro do Sigeco 2.0 em **T.I/Admin> Integrações > Log Dropshipping>** existe o controle dos status de cada etapa do Dropshipping. Se um status não alterar em 24hs úteis (_exceto sábado, domingo e feriado_) ficará em vermelho para acompanhamento e cobrança.
 
-![Inserindo saldo em estoque](http://developers.connectparts.com.br/imagens/drop2/dropforn06.png)
+![produtos](http://developers.connectparts.com.br/imagens/drop2/dropforn06.png)
 
