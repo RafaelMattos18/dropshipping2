@@ -1,5 +1,7 @@
 # Time line
 
+---
+
 Time line indicando todo o trajeto feito pelo pedido.
 1) Pedido integrado ao Ábacos
 - Pedido foi inserido/integrado no ERP Ábacos.

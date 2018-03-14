@@ -1,5 +1,7 @@
 ## Inserindo Saldo em Estoque
 
+---
+
 Os produtos Dropshipping deverão ser armazenados no **Almoxarifado 37 – DROP**. A alimentação do estoque deverá ser realizada manualmente, utilizando o Documento Auxiliar de Movimentação de Estoque.
 
 No Ábacos acesse:

@@ -1,5 +1,7 @@
 # Produtos
 
+---
+
 Caberá ao fornecedor realizar a manutenção de seus produtos, mantendo estoque, e status do produto (_ativar se o produto estiver em linha ou inativar, caso o produto saia de linha_) utilizando como base comum o Código de Fornecedor. Caberá ao ERP, através do integrador ERP/Plataforma E-commerce, enviar a informação de estoque as plataformas de vendas da ConnectParts (00k e Vtex). Após integrado e exposto o anuncio no site, ao ser feita uma venda destes itens, o integrador ERP/Plataforma E-commerce consome esta compra e imputa no ERP normalmente o pedido.
 
 Após a produção do anúncio for finalizada, o GA deverá inserir na planilha de ativação de anúncios do DOCS e antes do comercial realizar a ativação do anúncio deverá inserir na planilha ‘’Produtos Dropshipping’’ para que o departamento de frete da Connect Parts realize a validação do produto e insira no modal correto.

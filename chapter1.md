@@ -1,5 +1,7 @@
 # Recebimento Fiscal
 
+---
+
 Após o faturamento por parte do fornecedor, serão enviados dados da nota fiscal de faturamento e os dados ficarão disponíveis no **SIGECO > FINANCEIRO > DROPSHIPPING > NOTAS FISCAIS**. Nesta tela o financeiro deverá fazer o download do XML e da DANFE 
 
 ![Fluxo 02 recebimento fiscal](http://developers.connectparts.com.br/imagens/drop2/dropforn02.png)
